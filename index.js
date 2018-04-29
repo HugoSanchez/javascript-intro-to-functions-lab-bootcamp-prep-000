@@ -17,7 +17,11 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-  if string === 'I Love You'
+  if (string === 'I Love You'){
   return string
+  }else{
+    
+  }
+  } 
   
 }
